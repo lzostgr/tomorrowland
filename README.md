@@ -66,7 +66,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   was ook veel content op de website waardoor je werd overvallen door de hoeveelheid
   informatie. Hierdoor ging de concentratie ook snel weg. 
 
-  <img src="readme-images/testen.JPG" width="375px" alt="testpersoon die de website test">
+  <img src="readme-images/testen.png" width="375px" alt="testpersoon die de website test">
 
 
 
@@ -93,6 +93,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Het is lastig als je bepaalde bewegingen niet kan doen. Hierbij zou ook een goede oplossing
   zijn om een voicecommand toe te voegen. Hierdoor hoef je geen bewegingen uit te voeren.
 
+  <img src="readme-images/testenballon.png" width="375px" alt="testen met een schok">
+
+
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
@@ -102,6 +105,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   De problemen die opkwamen tijdens de test kan makkelijk worden opgelost, door het lettergrote
   groter te maken. Ook andere kleuren gebruiken. En meer stappen of pagina's te maken zodat
   je niet in 1x wordt overvallen door de vele informatie.
+
+  <img src="readme-images/testenbril.png" width="375px" alt="testpersoon met bril">
+
 
 </details>
 
@@ -113,7 +119,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="#" width="375px" alt="breakdown van de hele pagina">
+  <img src="#" width="375px" alt="ik had nog niks">
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/schetsmenu.png" width="375px" alt="breakdown van een dynamisch deel">
@@ -272,12 +278,28 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
+## Ontdekken (week 6/7/8/9)
+<details>
+  <summary>Tussen eindgesprek en verkansing</summary>
+
+  ### leren ontdekken
+  Tussen de periode van het eindgesprek en de herkansing ben ik erg bezig geweest met het
+  begrijpen van de codes. Samen met studiegenoten gingen we samen aan de slag met de code
+  om elkaar te motiveren en aan te moedigen. Ik leerde steeds beter de code begrijpen en 
+  begon meer te spelen. Zo leerde ik meer hoe ik met 'translate' de 'postion absolute' beter
+  responsive kan krijgen. Ook begon ik het leuker te vinden. Door bijvoorbeeld hovers en 
+  animaties toe te hebben gevoegd.
+
+</details>
+
+
+
 ## Herkansing (week 10)
 <details>
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="video afspelend op de achtergrond">
+  <img src="readme-images/video.png" width="375px" alt="video afspelend op de achtergrond">
   <img src="readme-images/gradient.png" width="375px" alt="gradient op 2022">
   <img src="readme-images/pictureslider.png" width="375px" alt="afbeeldingslider">
   <img src="readme-images/bovenaccount.png" width="375px" alt="head account pagina">
@@ -304,6 +326,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/draaieffect.png" width="375px" alt="bummer">
 
 </details>
+
+
 
 ## Bronnenlijst
 
